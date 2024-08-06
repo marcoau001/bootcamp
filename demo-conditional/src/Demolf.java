@@ -13,9 +13,9 @@ public class Demolf {
    boolean isXlargerThan30 =x < 29; //true
 
    if (isXlargerThan30) {
-    System.out.println("x >= 30"); // print
+    System.out.println("x >= 30"); 
    } else {
-    System.out.println("x < 30");
+    System.out.println("x < 30"); // print
    }
 
 

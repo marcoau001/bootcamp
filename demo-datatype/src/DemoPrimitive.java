@@ -37,10 +37,10 @@ public class DemoPrimitive {
     long l2 = 4L; // 4L is long value
 
     // primitives:
-    // byte, short, int, long, 
-    // float ,double
-    // char
-    // boolean
+    // byte, short, int, long, (Integer 嘅唔同level )
+    // float ,double (點數唔同level)
+    // char = charater
+    // boolean = true false
 
     // Integer: byte -> short -> int ->long
     byte b1=3; // from -128 to 127
