@@ -14,7 +14,7 @@ public class JavaQuest6 {
     int first = 0, second = 1;
     int count = 15; 
 
-    System.out.print(first + " " + second + " "); \
+    System.out.print(first + " " + second + " "); 
 
     for (int i = 2; i < count; i++) {
         int next = first + second; 

@@ -56,7 +56,7 @@ public class Demostring {
     char result = s10.charAt(1); // 2nd char of String value
     System.out.println(result); // e
     System.out.println(s10.charAt(0)); // h
-    // System.out.println(s10.charAt(-1)); // index negative -> runtime error
+    // System.out.println(s10.charAt(-1)); // index negative -> rummtime error
     // System.out.println(s10.charAt(5)); // out of range -> runtime error
     // s10.charAt(1L);
     // s10.charAt(1.0);
